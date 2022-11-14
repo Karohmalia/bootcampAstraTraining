@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://www.zeroturnaround.com">
+  <classpath>
+    <dir name="/home/arizal/Documents/hybris2105-bootcamp/hybris/bin/custom/astra/astrabackoffice/backoffice/classes" />
+  </classpath>
+</application>

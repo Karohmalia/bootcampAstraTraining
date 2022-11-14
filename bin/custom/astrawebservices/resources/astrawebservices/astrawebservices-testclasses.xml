@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><astrawebservices><testclass>org.astra.training.webservices.service.impl.DefaultAstrawebservicesServiceIntegrationTest</testclass><testclass>org.astra.training.webservices.jalo.AstrawebservicesTest</testclass></astrawebservices></testclasses>
